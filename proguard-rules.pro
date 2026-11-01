@@ -1,0 +1,2 @@
+-keep class com.boost.agent.** { *; }
+-dontwarn okhttp3.**
